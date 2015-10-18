@@ -38,6 +38,8 @@ eagle.epf
 
 *.eps
 
+*.job
+*.pro
 
 ### OSX ###
 .DS_Store
